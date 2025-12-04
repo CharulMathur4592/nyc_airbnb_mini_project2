@@ -1,0 +1,42 @@
+neighbourhood_group,neighbourhood,total_hosts,professional_host_count,pct_professional_hosts
+Brooklyn,Williamsburg,20,0,0
+Manhattan,"East Village",17,0,0
+Manhattan,Harlem,9,0,0
+Brooklyn,Bedford-Stuyvesant,7,0,0
+Manhattan,"Upper West Side",7,0,0
+Manhattan,"West Village",7,0,0
+Brooklyn,Greenpoint,5,0,0
+Manhattan,"East Harlem",5,0,0
+Manhattan,"Upper East Side",5,0,0
+Brooklyn,"Park Slope",4,0,0
+Brooklyn,"Prospect Heights",4,0,0
+Manhattan,Chelsea,4,0,0
+Brooklyn,"South Slope",4,0,0
+Manhattan,"Hell's Kitchen",4,0,0
+Manhattan,"Lower East Side",4,0,0
+Manhattan,Midtown,3,0,0
+Manhattan,Chinatown,2,0,0
+Brooklyn,Gowanus,2,0,0
+Brooklyn,Bushwick,2,0,0
+Brooklyn,"Carroll Gardens",2,0,0
+Brooklyn,"Cobble Hill",2,0,0
+Manhattan,"Kips Bay",2,0,0
+Manhattan,"Little Italy",2,0,0
+Manhattan,SoHo,2,0,0
+Manhattan,"Flatiron District",1,0,0
+Manhattan,"Greenwich Village",1,0,0
+Brooklyn,"Clinton Hill",1,0,0
+Brooklyn,"Crown Heights",1,0,0
+Brooklyn,"East Flatbush",1,0,0
+Brooklyn,Flatbush,1,0,0
+Brooklyn,"Fort Greene",1,0,0
+Brooklyn,"Prospect-Lefferts Gardens",1,0,0
+Manhattan,"Murray Hill",1,0,0
+Bronx,Eastchester,1,1,100
+Brooklyn,"Boerum Hill",1,0,0
+Brooklyn,"Brooklyn Heights",1,0,0
+Manhattan,"Financial District",1,0,0
+Queens,Astoria,1,0,0
+Queens,"Ditmars Steinway",1,0,0
+Queens,"Middle Village",1,0,0
+Queens,Ridgewood,1,0,0
